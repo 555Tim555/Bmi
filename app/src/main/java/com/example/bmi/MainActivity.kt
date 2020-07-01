@@ -10,6 +10,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         ed_weight   //取得合成元件(Synthetic property)kotlin
         ed_height
+        b_calcula
+        b_help
 
     }
 }
